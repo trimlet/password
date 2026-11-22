@@ -3,4 +3,4 @@ Icon = "assets/icon.png"
 Name = "Trimlet Password"
 ID = "local.trimletpassword"
 Version = "0.1.0"
-Build = 21
+Build = 23
